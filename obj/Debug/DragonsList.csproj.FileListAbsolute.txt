@@ -1,0 +1,14 @@
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\bin\Debug\DragonsList.exe.config
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.csprojResolveAssemblyReference.cache
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\MainWindow.baml
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\MainWindow.g.cs
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\App.g.cs
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList_MarkupCompile.cache
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.g.resources
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.Properties.Resources.resources
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.csproj.GenerateResource.Cache
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\bin\Debug\DragonsList.exe
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\bin\Debug\DragonsList.pdb
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.exe
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.pdb
+C:\Users\arkad\Desktop\dragons\DragonsList\DragonsList\obj\Debug\DragonsList.exe.licenses

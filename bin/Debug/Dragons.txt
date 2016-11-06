@@ -1,0 +1,4642 @@
+|-
+| [[Ambered Nadder]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 4,500,000
+| 4,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,194
+| data-sort-value="3" | Long
+| ?
+| ?
+| 62
+| data-sort-value="0.16.16" | 16m16s
+| 490M
+| None
+|-
+| [[Armorwing]]
+| [[Armorwing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| 113K
+| 450K
+| 156
+| data-sort-value="1.21" | 1h21m
+| None
+| 500M
+|-
+| [[Axewing]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 1,500,000
+| 1,500,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 8,437
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Bam]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,020,000
+| 750,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,244
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Bandit]]
+| [[Armorwing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,250,000
+| 2,250,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 225
+| data-sort-value="1.05" | 1h05m
+| None
+| ???M
+|-
+| [[Barf & Belch]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,500,000
+| 1,500,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,938
+| data-sort-value="2" | Med.
+| 124K
+| 494K
+| None
+| None
+| None
+| None
+|-
+| [[Barf & Belch's Mate]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 750,000
+| 750,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 250
+| data-sort-value="1.27" | 1h27m
+| 450M
+| None
+|-
+| [[Barf & Belch's Offspring]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,720,000
+| 1,720,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,237
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 150
+| data-sort-value="2.10" | 2h10m
+| 325M
+| None
+|-
+| [[Basket Case]]
+| [[Hotburple]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,150,000
+| 3,150,000
+| data-sort-value="22.25" | 22h25m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,933
+| data-sort-value="1" | Short
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| None
+| 400M
+|-
+| [[Battle Boneknapper]]
+| [[Boneknapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 6,070,000
+| 6,070,000
+| data-sort-value="6.20" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,935
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Changewing]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,750,000
+| 675,000
+| data-sort-value="12.50" | 12h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Deadly Nadder]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 2,700,000
+| 2,700,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,548
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Fireworm Princess]]
+| [[Fireworm Princess]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| None
+| 2,520,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,559
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Flightmare]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 2,430,000
+| 1,350,000
+| data-sort-value="13.50" | 13h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,476
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Grapple Grounder]]
+| [[Grapple Grounder]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,350,000
+| 10,800,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,797
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Groncicle]]
+| [[Groncicle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 3,030,000
+| 3,030,000
+| data-sort-value="24.0" | 1d
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,499
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Gronckle]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,010,000
+| 1,350,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,338
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Hackatoo]]
+| [[Hackatoo]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,650,000
+| 4,950,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,401
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Hideous Zippleback]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,210,000
+| 1,210,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 9,000
+| data-sort-value="2" | Med.
+| 188K
+| 153K
+| None
+| None
+| None
+| None
+|-
+| [[Battle Hobblegrunt]]
+| [[Hobblegrunt]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,800,000
+| 1,650,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,874
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Hotburple]]
+| [[Hotburple]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,500,000
+| 2,700,000
+| data-sort-value="13.50" | 13h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,467
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Monstrous Nightmare]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,350,000
+| 1,010,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,246
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Raincutter]]
+| [[Raincutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 4,120,000
+| 4,120,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,472
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Ripwrecker]]
+| [[Ripwrecker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 10,800,000
+| 1,350,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,857
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Rumblehorn]]
+| [[Rumblehorn]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,650,000
+| 1,650,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,528
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Scauldron]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,550,000
+| None
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,359
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Scuttleclaw]]
+| [[Scuttleclaw]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 3,150,000
+| 3,150,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 7,329
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Seashocker]]
+| [[Seashocker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 10,800,000
+| 1,350,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,794
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Shockjaw]]
+| [[Shockjaw]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 4,950,000
+| 1,650,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,209
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Skrill]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 2,900,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,869
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Sliquifier]]
+| [[Sliquifier]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,080,000
+| 877,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,050
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Smothering Smokebreath]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 742,000
+| 742,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,432
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Snafflefang]]
+| [[Snafflefang]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 742,000
+| 810,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,912
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Snaptrapper]]
+| [[Snaptrapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,140,000
+| 1,140,000
+| data-sort-value="17.05" | 17h05m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,922
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Stormcutter]]
+| [[Stormcutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| None
+| 2,900,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,723
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Sweet Death]]
+| [[Sweet Death]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,350,000
+| 10,800,000
+| data-sort-value="3.40" |3h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,153
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Sword Stealer]]
+| [[Sword Stealer]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 3,370,000
+| 3,370,000
+| data-sort-value="24" | 1d
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,186
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Terrible Terror]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 300,000
+| 300,000
+| data-sort-value="107" | 4d11h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,080
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Thunderclaw]]
+| [[Thunderclaw]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| None
+| 10,300,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,499
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Thunderdrum]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 2,090,000
+| None
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,159
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Thunderpede]]
+| [[Thunderpede]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 877,000
+| 1,080,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,123
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Tide Glider]]
+| [[Tide Glider]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 2,520,000
+| None
+| data-sort-value="42" | 1d18h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 7,793
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Timberjack]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 750,000
+| 1,950,000
+| data-sort-value="12.50" | 12h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,311
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Typhoomerang]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Battle Dragons | Battle]]
+| None
+| 2,320,000
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,308
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Whispering Death]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Battle Dragons | Battle]]
+| None
+| 1,550,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,455
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Windstriker]]
+| [[Windstriker]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 10,300,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,199
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Battle Woolly Howl]]
+| [[Woolly Howl]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Battle Dragons | Battle]]
+| 1,890,000
+| 1,890,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 7,830
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Bing]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,800,000
+| 1,800,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,244
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Bonecrusher's Conquest]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 12,200,000
+| None
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Boneknapper]]
+| [[Boneknapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 6,750,000
+| 6,750,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,147
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Boneshedder]]
+| [[Boneknapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 8,250,000
+| 6,000,000
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 225
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Boom]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 750,000
+| 2,020,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,244
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Bork Week Nadder]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,300,000
+| 3,300,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,337
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Brute Boneknapper]]
+| [[Boneknapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Brute Dragons | Brute]]
+| 1,950,000
+| 3,750,000
+| data-sort-value="12.45" | 12h45m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,697
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 312
+| data-sort-value="1.21" | 1h21m
+| 450M
+| None
+|-
+| [[Brute Skrill]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Brute Dragons | Brute]]
+| 3,750,000
+| 1,950,000
+| data-sort-value="12.45" | 12h45m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| ?
+| ?
+| 312
+| data-sort-value="1.21" | 1h21m
+| None
+| 450M
+|-
+| [[Brute Snaptrapper]]
+| [[Snaptrapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Brute Dragons | Brute]]
+| 3,750,000
+| 1,950,000
+| data-sort-value="12.45" | 12h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,697
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Brute Timberjack]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Brute Dragons | Brute]]
+| 1,950,000
+| 3,750,000
+| data-sort-value="12.45" | 12h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,807
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Butt]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 750,000
+| 1,500,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Cagecruncher]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,750,000
+| 3,750,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,937
+| data-sort-value="1" | Med.
+| ?
+| ?
+| 218
+| data-sort-value="0.32.35" | 32m35s
+| 450M
+| None
+|-
+| [[Catastrophic Quaken]]
+| [[Catastrophic Quaken]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,778
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| None
+| 450M
+|-
+| [[Cavern Crasher]]
+| [[Cavern Crasher]]
+| None
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| None
+| None
+| None
+| None
+| None
+| 250
+| data-sort-value="1.02" | 1h02m
+| 500M
+| None
+|-
+| [[Champion Catastrophic Quaken]]
+| [[Catastrophic Quaken]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Champion Dragons | Champion]]
+| None
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,778
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| 225M
+| None
+|-
+| [[Champion Triple Stryke]]
+| [[Triple Stryke]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Champion Dragons | Champion]]
+| 7,500,000
+| 7,500,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,389
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 143
+| data-sort-value="1.33" | 1h33m
+| None
+| 400M
+|-
+| [[Champion Windgnasher]]
+| [[Windgnasher]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Champion Dragons | Champion]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,565
+| data-sort-value="3" | Long
+| ?
+| ?
+| 156
+| data-sort-value="1.21" | 1h21m
+| None
+| 250M
+|-
+| [[Changewing]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,950,000
+| 750,000
+| data-sort-value="12.50" | 12h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,223
+| data-sort-value="3" | Long
+| 35.8K
+| 286K
+| None
+| None
+| None
+| None
+|-
+| [[Chicken]]
+| [[Chicken]]
+|None
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 29,900,000
+| data-sort-value=".06" | 6m
+| None
+| None
+| None
+| None
+| None
+| 2
+| data-sort-value="1.09" | 1h09m
+| 1
+| None
+|-
+| [[Chompers]]
+| [[Egg Biter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons| Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,199
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 156
+| data-sort-value="1.21" | 1h21m
+| 500M
+| None
+|-
+| [[Clawlifter]]
+| [[Shovelhelm]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,730
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="0.32.42" | 32m42s
+| 450M
+| None
+|-
+| [[Cloudjumper]]
+| [[Stormcutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 3,220,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 212
+| data-sort-value="1.32" | 1h32m
+| None
+| 450M
+|-
+| [[Coldsnap]]
+| [[Armorwing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 156
+| data-sort-value="1.05" | 1h05m
+| None
+| 500M
+|-
+| [[Covecharger]]
+| [[Seashocker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,600,000
+| 3,600,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,976
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 13
+| data-sort-value="0.04.05" | 4m05s
+| 325M
+| None
+|-
+| [[Dagur's Skrill]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,900,000
+| 3,900,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,565
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 490M
+| None
+|-
+| [[Darkvarg]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 3,600,000
+| 3,600,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| 13
+| data-sort-value="0.00.29" | 29s
+| None
+| 325M
+|-
+| [[Deadly Nadder]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Common Dragons | Common]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| 32.8K
+| 263K
+| None
+| None
+| None
+| None
+|-
+| [[Death Song]]
+| [[Slithersong]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,750,000
+| 3,750,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,389
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 287
+| data-sort-value="1.23" | 1h23m
+| 470M
+| None
+|-
+| [[Deepfreeze]]
+| [[Shockjaw]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 6,000,000
+| 3,000,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,488
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| 225M
+| None
+|-
+| [[Desert Wraith]]
+| [[Sand Wraith]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,300,000
+| 3,300,000
+| data-sort-value="23.30" | 23h30m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,894
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| None
+| ???M
+|-
+| [[DRAGON]]
+| [[DRAGON]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 1,800,000
+| 1,800,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,019
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 300
+| data-sort-value="1.22" | 1h22m
+| None
+| 500M
+|-
+| [[Dronkeys]]
+| [[DRAGON]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="107" | 4d11h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| 312
+| data-sort-value="27" | 1d03h
+| 500M
+| None
+|-
+| [[Dustbrawler]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 300,000
+| 300,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,852
+| data-sort-value="3" | Long
+| ?
+| ?
+| 625
+| data-sort-value="1.05" | 1h05m
+| None
+| 499M
+|-
+| [[Earsplitter]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,750,000
+| 6,750,000
+| data-sort-value="8.45" | 8h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,311
+| data-sort-value="1" | Short
+| ?
+| ?
+| 225
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Edge Nadder]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 4,500,000
+| 4,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,708
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Edgewing]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,950,000
+| 1,950,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,658
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Egg Biter]]
+| [[Egg Biter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons| Rare]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 156
+| data-sort-value="1.21" | 1h21m
+| 500M
+| None
+|-
+| [[Egg Blossom]]
+| [[Egg Biter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons| Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="6.00" | 6h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,758
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 162
+| data-sort-value="1.20" | 1h20m
+| None
+| 200M
+|-
+| [[Exiled Gronckle]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exiled Dragons | Exiled]]
+| 7,680,000
+| 7,680,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,185
+| data-sort-value="1" | Short
+| ?
+| ?
+| 187
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Exiled Hideous Zippleback]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exiled Dragons | Exiled]]
+| 2,020,000
+| 2,020,000
+| data-sort-value="36" | 1d12h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,938
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Exiled Monstrous Nightmare]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exiled Dragons | Exiled]]
+| 2,020,000
+| 2,020,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,938
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 218
+| data-sort-value="0.32.35" | 32m35s
+| 450M
+| None
+|-
+| [[Exotic Egg Biter]]
+| [[Egg Biter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exotic Dragons| Exotic]]
+| 750,000
+| 150,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 331
+| data-sort-value="1.22" | 1h22m
+| 490M
+| None
+|-
+| [[Exotic Flightmare]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 4,500,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,822
+| data-sort-value="3" | Long
+| ?
+| ?
+| 312
+| data-sort-value="1.21" | 1h21m
+| 450M
+| None
+|-
+| [[Exotic Grapple Grounder]]
+| [[Grapple Grounder]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 12,200,000
+| 1,800,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Hackatoo]]
+| [[Hackatoo]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 4,950,000
+| 1,650,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,409
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Moldruffle]]
+| [[Rockstomper]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 4,500,000
+| 4,500,000
+| data-sort-value="32.00" | 1d08h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Razorwhip]]
+| [[Razorwhip]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| None
+| 4,500,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,678
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 312
+| data-sort-value="1.21" | 1h21m
+| None
+| 450M
+|-
+| [[Exotic Ripwrecker]]
+| [[Ripwrecker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 11,500,000
+| 3,000,000
+| data-sort-value="6.20" | 6h25m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,684
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Scauldron]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| None
+| 3,000,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,886
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Shivertooth]]
+| [[Shivertooth]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 1,650,000
+| 11,500,000
+| data-sort-value="4.10" | 4h10m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,451
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Shockjaw]]
+| [[Shockjaw]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 1,500,000
+| 4,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,300
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Shovelhelm]]
+| [[Shovelhelm]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 150,000
+| 750,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,299
+| data-sort-value="3" | Long
+| ?
+| ?
+| 62
+| data-sort-value="0.08.17" | 8m17s
+| None
+| 300M
+|-
+| [[Exotic Sliquifier]]
+| [[Sliquifier]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 3,000,000
+| 11,500,000
+| data-sort-value="6.20" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,877
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Slithersong]]
+| [[Slithersong]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 750,000
+| 150,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 62
+| data-sort-value="0.08.17" | 8m17s
+| 300M
+| None
+|-
+| [[Exotic Smothering Smokebreath]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 3,150,000
+| 3,150,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,130
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Sweet Death]]
+| [[Sweet Death]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 2,050,000
+| 2,050,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,121
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Sword Stealer]]
+| [[Sword Stealer]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 150,000
+| 750,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 331
+| data-sort-value="1.22" | 1h22m
+| None
+| 490M
+|-
+| [[Exotic Thunderpede]]
+| [[Thunderpede]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 11,500,000
+| 1,650,000
+| data-sort-value="4.05" | 4h05m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,182
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Tide Glider]]
+| [[Tide Glider]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| None
+| 2,520,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,936
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Exotic Whispering Death]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exotic Dragons | Exotic]]
+| 3,000,000
+| None
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 1,963
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Fanghook]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 4,500,000
+| 2,225,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,976
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Fangmaster]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,000,000
+| 1,800,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 250
+| data-sort-value="1.05" | 1h05m
+| 425M
+| None
+|-
+| [[Firescrapes]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 9,000
+| data-sort-value="1" | Short
+| 49.2K
+| 2440K
+| 162
+| data-sort-value="1.24" | 1h24m
+| 500M
+| None
+|-
+| [[Fireworm Princess]]
+| [[Fireworm Princess]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 2,100,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,588
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 143
+| data-sort-value="1.54" | 1h54m
+| None
+| 450M
+|-
+| [[Fireworm Queen]]
+| [[Fireworm Princess]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 2,250,000
+| data-sort-value="64" | 2d16h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 6,299
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 262
+| data-sort-value="3.30" | 3h30m
+| None
+| 500M
+|-
+| [[Flashfright]]
+| [[Fireworm Princess]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Premium Dragons | Premium]]
+| None
+| 12,000,000
+| data-sort-value="40" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| 75.3K
+| 301K
+| 125
+| data-sort-value="1.05" | 1h05m
+| None
+| 450M
+|-
+| [[Flightmare]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 2,700,000
+| 1,500,000
+| data-sort-value="13.50" | 13h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| 44.8K
+| 355K
+| 131
+| data-sort-value="1.54" | 1h54m
+| 450M
+| None
+|-
+| [[Flystorm]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,594
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Frostfright's big bro]]
+| [[Snow Wraith]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 4,350,000
+| 4,350,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,299
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Frostfright's lil sis]]
+| [[Snow Wraith]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,450,000
+| 4,950,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,493
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Frozen Groncicle]]
+| [[Groncicle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,750,000
+| 3,750,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,684
+| data-sort-value="1" | Short
+| ?
+| ?
+| 187
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Furnace]]
+| [[Thunderpede]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Premium Dragons | Premium]]
+| None
+| 7,650,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,311
+| data-sort-value="1" | Short
+| ?
+| ?
+| 1,000
+| data-sort-value="86" | 3d14h
+| None
+| 500M
+|-
+| [[Garffiljorg]]
+| [[Slithersong]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category: Unique Dragons | Unique]]
+| None
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,848
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 275
+| data-sort-value="1.02" | 1h02m
+| None
+| 500M
+|-
+| [[Girl-Hookfang]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 7,500,000
+| 1,120,000
+| data-sort-value="2.05" | 2h05m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,019
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Gobber's Nemesis]]
+| [[Boneknapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,000,000
+| 6,000,000
+| data-sort-value="8.00" | 8h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Gobstinker]]
+| [[Gobsucker]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Range" | [[File:Range Icon.png | 20px | link=:Category:Range Dragons]]
+| 6,029
+| data-sort-value="3" | Long
+| ?
+| ?
+| 275
+| data-sort-value="1.02" | 1h02m
+| 500M
+| None
+|-
+| [[Gobsucker]]
+| [[Gobsucker]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 10,500,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Range" | [[File:Range Icon.png | 20px | link=:Category:Range Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="1.02" | 1h02m
+| 500M
+| None
+|-
+| [[Gothi's Frostfright]]
+| [[Snow Wraith]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 4,950,000
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,560
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Gothi's Gronckle]] [[Gothi's Gronckle| {(^_^)}'s&lt;^),,//,,)~]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 14,900,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,745
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Gothi's Pet]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 7,500,000
+| 7,500,000
+| data-sort-value="2.05" | 2h05m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,852
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Grapple Grounder]]
+| [[Grapple Grounder]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 1,500,000
+| 12,000,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Grazefall]]
+| [[Sliquifier]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 12,000,000
+| None
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,498
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 162
+| data-sort-value="1.54" | 1h24m
+| 450M
+| None
+|-
+| [[Gritpicker]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,000,000
+| 6,000,000
+| data-sort-value="53" | 2d05h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,635
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Groncicle]]
+| [[Groncicle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Rare Dragons |Rare]]
+| 3,370,000
+| 3,370,000
+| data-sort-value="24.0" | 1d
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,496
+| data-sort-value="1" | Short
+| ?
+| ?
+| 143
+| data-sort-value="1.54" | 1h54m
+| None
+| 425M
+|-
+| [[Gronckle]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,120,000
+| 1,500,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 1,869
+| data-sort-value="1" | Short
+| 10.2K
+| 512K
+| None
+| None
+| None
+| None
+|-
+| [[Groundsplitter]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 2,470,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,244
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Gruff]]
+| [[Hobblegrunt]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,750,000
+| 3,000,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,807
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Grump]]
+| [[Hotburple]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,700,000
+| 2,700,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,745
+| data-sort-value="1" | Short
+| 20.5K
+| 1020K
+| None
+| None
+| None
+| None
+|-
+| [[Guslout]]
+| [[Shovelhelm]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 9,000
+| data-sort-value="3" | Long
+| 145K
+| 1140K
+| 137
+| data-sort-value="0.35.50" | 35m50s
+| 450M
+| None
+|-
+| [[Gustnudger]]
+| [[Windgnasher]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 7,500,000
+| data-sort-value="53.0" | 2d05h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Hackagift]]
+| [[Hackatoo]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,000,000
+| 6,000,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,658
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| None
+| 225M
+|-
+| [[Hackatoo]]
+| [[Hackatoo]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,500,000
+| 4,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,372
+| data-sort-value="3" | Long
+| 38.2K
+| 304K
+| None
+| None
+| None
+| None
+|-
+| [[Head]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,500,000
+| 750,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Hideous Zippleback]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,350,000
+| 1,350,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,481
+| data-sort-value="2" | Med.
+| 52.0K
+| 209K
+| None
+| None
+| None
+| None
+|-
+| [[Hobblegrunt]]
+| [[Hobblegrunt]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Common Dragons | Common]]
+| 900,000
+| 825,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,150
+| data-sort-value="1" | Short
+| 11.8K
+| 589K
+| 125
+| data-sort-value="2.43" | 2h43m
+| 450M
+| None
+|-
+| [[Hofferson's Bane]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 3,750,000
+| 1,500,000
+| data-sort-value="13.50" | 13h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,244
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Hookfang]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 7,500,000
+| 1,120,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,697
+| data-sort-value="2" | Med.
+| 56.5K
+| 226K
+| None
+| None
+| None
+| None
+|-
+| [[Hookfang's Mate]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 7,500,000
+| 1,120,000
+| data-sort-value="4.15" | 4h15m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,938
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 200
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Hookfang's Offspring]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,950,000
+| 1,500,000
+| data-sort-value="24" | 1d
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,336
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 150
+| data-sort-value="2.10" | 2h10m
+| 325M
+| None
+|-
+| [[Hotburple]]
+| [[Hotburple]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 1,500,000
+| 2,700,000
+| data-sort-value="13.50" | 13h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,807
+| data-sort-value="1" | Short
+| 15.4K
+| 766K
+| 131
+| data-sort-value="1.54" | 1h54m
+| None
+| 450M
+|-
+| [[Hotshot]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 13,500,000
+| 13,500,000
+| data-sort-value="1.0" | 1h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,451
+| data-sort-value="3" | Long
+| ?
+| ?
+| 100
+| data-sort-value="0.20.58" | 20m58s
+| 450M
+| None
+|-
+| [[Hunterbolt]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 14,200,000
+| None
+| data-sort-value=".16" | 16m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,936
+| data-sort-value="3" | Long
+| ?
+| ?
+| 31
+| data-sort-value="0.10.05" | 5m29s
+| 490M
+| None
+|-
+| [[Icebane]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 4,500,000
+| None
+| data-sort-value="7.55" |7h55m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 499M
+| None
+|-
+| [[Iggy]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,250,000
+| 2,250,000
+| data-sort-value="9.35" | 9h35m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Incognito]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 7,650,000
+| None
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 7,236
+| data-sort-value="3" | Long
+| ?
+| ?
+| 1,000
+| data-sort-value="86" | 3d14h
+| 500M
+| None
+|-
+| [[Irontooth]]
+| [[Snafflefang]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 825,000
+| 900,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,745
+| data-sort-value="1" | Short
+| ?
+| ?
+| 187
+| data-sort-value="0.48.52" | 48m52s
+| None
+| 450M
+|-
+| [[Junior Tuffnut jr.]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,800,000
+| 2,400,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,745
+| data-sort-value="1" | Short
+| ?
+| ?
+| 250
+| data-sort-value="1.05" | 1h05m
+| None
+| 425M
+|-
+| [[Kick-off Terror]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,000,000
+| 10,000,000
+| data-sort-value="1" | 1h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,467
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Leafy Snaptrapper]]
+| [[Snaptrapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,440,000
+| 1,440,000
+| data-sort-value="42" | 1d18h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,877
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.37" | 1h37m
+| 425M
+| None
+|-
+| [[Lil Lullaby]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,750,000
+| 6,750,000
+| data-sort-value="8.45" | 8h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,619
+| data-sort-value="1" | Short
+| ?
+| ?
+| 225
+| data-sort-value="2.10" | 2h10m
+| None
+| 400M
+|-
+| [[Lump]]
+| [[Snafflefang]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,000,000
+| 3,750,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,807
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Masked Sweet Death]]
+| [[Sweet Death]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,500,000
+| 12,000,000
+| data-sort-value="2.40" | 2h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,684
+| data-sort-value="1" | Short
+| ?
+| ?
+| 250
+| data-sort-value="0.33.32" | 33m32s
+| None
+| 500M
+|-
+| [[Meatlug]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,120,000
+| 7,500,000
+| data-sort-value="6.20" | 6h25m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,807
+| data-sort-value="1" | Short
+| 15.4K
+| 766K
+| None
+| None
+| None
+| None
+|-
+| [[Meatlug's Mate]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,120,000
+| 7,500,000
+| data-sort-value="4.15" | 4h15m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,185
+| data-sort-value="1" | Short
+| ?
+| ?
+| 200
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Meatlug's Offspring]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,500,000
+| 1,870,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 1,869
+| data-sort-value="1" | Short
+| ?
+| ?
+| 150
+| data-sort-value="2.10" | 2h10m
+| None
+| 325M
+|-
+| [[Melting Wing]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="1" | 1h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Mildew's Misery]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 12,100,000
+| None
+| data-sort-value="1" | 1h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Mildew's Strain]]
+| [[Threadtail]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,379
+| data-sort-value="2" | Med.
+| 154K
+| 613K
+| 125
+| data-sort-value="1.05" | 1h05m
+| 450M
+| None
+|-
+| [[Moldruffle]]
+| [[Rockstomper]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 10,800,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| 275
+| data-sort-value="1.08" | 1h08m
+| None
+| 500M
+|-
+| [[Monstrous Nightmare]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,500,000
+| 1,120,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,796
+| data-sort-value="2" | Med.
+| 37.7K
+| 153K
+| None
+| None
+| None
+| None
+|-
+| [[Muddlehunt]]
+| [[Gobsucker]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 10,300,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Range" | [[File:Range Icon.png | 20px | link=:Category:Range Dragons]]
+| 5,565
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.52.16" | 52m16s
+| None
+| 490M
+|-
+| [[Night Terror]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,450,000
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,730
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 325M
+| None
+|-
+| [[Nightwatch]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,730
+| data-sort-value="3" | Long
+| ?
+| ?
+| 187
+| data-sort-value="1.48" | 1h48m
+| 325M
+| None
+|-
+| [[Outsnapper]]
+| [[Snaptrapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,950,000
+| 1,950,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,559
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Pain]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,270,000
+| 2,250,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Pestbud]]
+| [[Snifflehunch]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Prickleboggle]]
+| [[Prickleboggle]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 12,000,000
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,810
+| data-sort-value="3" | Long
+| 31.8K
+| 1580K
+| 125
+| data-sort-value="1.05" | 1h05m
+| None
+| 450M
+|-
+| [[Primal Hobblegrunt]]
+| [[Hobblegrunt]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Primal Dragons | Primal]]
+| 11,200,000
+| None
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,370
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Primal Snafflefang]]
+| [[Snafflefang]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Primal Dragons | Primal]]
+| 2,400,000
+| None
+| data-sort-value="37" | 1d13h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,370
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Primal Thornridge]]
+| [[Thornridge]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Primal Dragons | Primal]]
+| 2,020,000
+| 2,020,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,337
+| data-sort-value="3" | Long
+| ?
+| ?
+| 218
+| data-sort-value="0.32.32" | 32m32s
+| None
+| 450M
+|-
+| [[Puddlemuck]]
+| [[Raincutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,300,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.52.16" | 52m16s
+| 490M
+| None
+|-
+| [[Quiverpain]]
+| [[Shivertooth]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,451
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.21.50" | 21m50s
+| 450M
+| None
+|-
+| [[Raincutter]]
+| [[Raincutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 4,120,000
+| 4,120,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| 44.8K
+| 355K
+| None
+| None
+| None
+| None
+|-
+| [[Rattling Smokebreath]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,500,000
+| 1,500,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,708
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 100M
+| None
+|-
+| [[Razorwhip]]
+| [[Razorwhip]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,588
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.37" | 1h37m
+| None
+| 450M
+|-
+| [[Ripwrecker]]
+| [[Ripwrecker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 12,000,000
+| 1,500,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,684
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Rockstomper]]
+| [[Rockstomper]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="1.02" | 1h02m
+| None
+| 500M
+|-
+| [[Ruffnut's Trancemare]]
+| [[Flightmare]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 2,400,000
+| None
+| data-sort-value="214" | 8d22h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,865
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 500
+| data-sort-value="24.0" | 1d
+| 250M
+| None
+|-
+| [[Rumblehorn]]
+| [[Rumblehorn]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 1,650,000
+| 1,650,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,426
+| data-sort-value="1" | Short
+| ?
+| ?
+| 137
+| data-sort-value="1.59" | 1h59m
+| None
+| 450M
+|-
+| [[Rumpus]]
+| [[Thunderclaw]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 7,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,499
+| data-sort-value="1" | Short
+| ?
+| ?
+| 237
+| data-sort-value="2.17" | 2h17m
+| None
+| 450M
+|-
+| [[Sailback]]
+| [[Thunderclaw]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,000,000
+| 6,000,000
+| data-sort-value="9.35" | 9h35m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,622
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Sand Wraith]]
+| [[Sand Wraith]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,708
+| data-sort-value="3" | Long
+| ?
+| ?
+| 137
+| data-sort-value="1.59" | 1h59m
+| None
+| 425M
+|-
+| [[Scardian]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 12,000,000
+| 12,000,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Scauldron]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,720,000
+| None
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,886
+| data-sort-value="2" | Med.
+| 39.5K
+| 160K
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Scauldy]]
+| [[Scauldron]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,720,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,057
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 200
+| data-sort-value="1.34" | 1h34m
+| 450M
+| None
+|-
+| [[Scuttleclaw]]
+| [[Scuttleclaw]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 2,620,000
+| 2,620,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,244
+| data-sort-value="3" | Long
+| 52.2K
+| 414K
+| 137
+| data-sort-value="1.59" | 1h59m
+| 450M
+| None
+|-
+| [[Seashocker]]
+| [[Seashocker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 12,000,000
+| 1,500,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,957
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Seedling Night Terror]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Seedling Dragons | Seedling]]
+| None
+| 6,000,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 7,700
+| data-sort-value="3" | Long
+| ?
+| ?
+| 250
+| data-sort-value="2.10" | 2h10m
+| None
+| 225M
+|-
+| [[Seedling Rumblehorn]]
+| [[Rumblehorn]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Seedling Dragons | Seedling]]
+| None
+| 2,400,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,426
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Seedling Sand Wraith]]
+| [[Sand Wraith]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Seedling Dragons | Seedling]]
+| 11,200,000
+| 12,400,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,393
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Seedling Sweet Death]]
+| [[Sweet Death]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Seedling Dragons | Seedling]]
+| 12,400,000
+| 11,200,000
+| data-sort-value="4.45" | 4h45m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,426
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Sharpshot]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,350,000
+| 1,350,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Shivertooth]]
+| [[Shivertooth]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 9,750,000
+| 9,750,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,451
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Shockjaw]]
+| [[Shockjaw]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Common Dragons | Common]]
+| 4,500,000
+| 1,500,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,300
+| data-sort-value="2" | Med.
+| 48.2K
+| 194K
+| None
+| None
+| None
+| None
+|-
+| [[Shovelhelm]]
+| [[Shovelhelm]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,730
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| 450M
+| None
+|-
+| [[Skrill]]
+| [[Skrill]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,220,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,894
+| data-sort-value="3" | Long
+| ?
+| ?
+| 137
+| data-sort-value="1.50" | 1h50m
+| 450M
+| None
+|-
+| [[Skrill Chiller]]
+| [[Snow Wraith]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 8,700,000
+| None
+| data-sort-value="16.00" | 16h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,936
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Skullcrusher]]
+| [[Rumblehorn]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 1,500,000
+| 1,500,000
+| data-sort-value="41" | 1d18h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,121
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| 475M
+| None
+|-
+| [[Skystreaker]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| None
+| data-sort-value="36.0" | 1d12h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| 131
+| data-sort-value="1.54" | 1h54m
+| 450M
+| None
+|-
+| [[Slasher]]
+| [[Triple Stryke]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 10,500,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,668
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 250
+| data-sort-value="1.02" | 1h02m
+| 500M
+| None
+|-
+| [[Slimeslinger]]
+| [[Cavern Crasher]]
+| None
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 10,500,000
+| data-sort-value="5.50" | 5h50m
+| None
+| None
+| None
+| None
+| None
+| 250
+| data-sort-value="1.02" | 1h02m
+| None
+| 500M
+|-
+| [[Sliquifier]]
+| [[Sliquifier]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 1,200,000
+| 975,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,877
+| data-sort-value="2" | Med.
+| 60.2K
+| 242K
+| 131
+| data-sort-value="1.54" | 1h54m
+| 450M
+| None
+|-
+| [[Slithersong]]
+| [[Slithersong]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,750,000
+| 3,450,000
+| data-sort-value="25" | 1d01h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,948
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.48" | 1h48m
+| 450M
+| None
+|-
+| [[Smidvarg]]
+| [[Night Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons|Unique]]
+| 3,750,000
+| 3,750,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,586
+| data-sort-value="3" | Long
+| ?
+| ?
+| 237
+| data-sort-value="2.10" | 2h10m
+| 200M
+| None
+|-
+| [[Smothering Smokebreath]]
+| [[Smothering Smokebreath]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Common Dragons | Common]]
+| 825,000
+| 825,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,945
+| data-sort-value="3" | Long
+| 31.3K
+| 251K
+| 125
+| data-sort-value="1.48" | 1h48m
+| None
+| 450M
+|-
+| [[Snafflefang]]
+| [[Snafflefang]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Common Dragons | Common]]
+| 825,000
+| 900,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,150
+| data-sort-value="1" | Short
+| 11.8K
+| 589K
+| 125
+| data-sort-value="2.43" | 2h43m
+| None
+| 450M
+|-
+| [[Snaggletooth]]
+| [[Windstriker]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,250,000
+| 2,250,000
+| data-sort-value="53" | 2d05h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,497
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.37" | 1h37m
+| 475M
+| None
+|-
+| [[Snaptrapper]]
+| [[Snaptrapper]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,270,000
+| 1,270,000
+| data-sort-value="17.05" | 17h05m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,336
+| data-sort-value="2" | Med.
+| 48.9K
+| 197K
+| 125
+| data-sort-value="1.48" | 1h48m
+| 450M
+| None
+|-
+| [[Sneaky]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,250,000
+| 1,270,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,037
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Sneezlehunch]]
+| [[Snifflehunch]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,450,000
+| 2,250,000
+| data-sort-value="23.30" | 23h30m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,588
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.28" | 1h28m
+| 450M
+| None
+|-
+| [[Snifflehunch]]
+| [[Snifflehunch]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,450,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,588
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.37" | 1h37m
+| 450M
+| None
+|-
+| [[Snoggletog Wraith]]
+| [[Woolly Howl]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 2,400,000
+| 2,400,000
+| data-sort-value="32" | 1d08h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,936
+| data-sort-value="3" | Long
+| ?
+| ?
+| 137
+| data-sort-value="1.59" | 1h59m
+| 450M
+| None
+|-
+| [[Snow Wraith]]
+| [[Snow Wraith]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,450,000
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,778
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 325M
+|-
+| [[Soaring Sidekick]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 12,100,000
+| data-sort-value="1" | 1h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,745
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Solar Flare]]
+| [[Fireworm Princess]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 2,250,000
+| data-sort-value="214" | 8d22h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,379
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 312
+| data-sort-value="27.0" | 1d03h
+| None
+| 500M
+|-
+| [[Spikeback]]
+| [[Catastrophic Quaken]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Premium Dragons | Premium]]
+| None
+| 14,200,000
+| data-sort-value=".16" | 16m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,997
+| data-sort-value="1" | Short
+| ?
+| ?
+| 31
+| data-sort-value=".15.29" | 15m29s
+| None
+| 490M
+|-
+| [[Spitelout's Kingstail]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 8,907
+| data-sort-value="3" | Long
+| ?
+| ?
+| 162
+| data-sort-value="1.24" | 1h24m
+| 500M
+| None
+|-
+| [[Stokehead]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 750,000
+| 1,800,000
+| data-sort-value="22.20" | 22h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,182
+| data-sort-value="1" | Short
+| ?
+| ?
+| 150
+| data-sort-value="1.37" | 1h37m
+| None
+| 450M
+|-
+| [[Stormcutter]]
+| [[Stormcutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 3,220,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,777
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 137
+| data-sort-value="1.50" | 1h50m
+| None
+| 450M
+|-
+| [[Stormfly]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,409
+| data-sort-value="3" | Long
+| 38.8K
+| 309K
+| None
+| None
+| None
+| None
+|-
+| [[Stormfly's Mate]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,000,000
+| 3,000,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,936
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Stormfly's Offspring]]
+| [[Deadly Nadder]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 1,800,000
+| 1,800,000
+| data-sort-value="8.30" | 8h30m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,852
+| data-sort-value="3" | Long
+| ?
+| ?
+| 150
+| data-sort-value="2.10" | 2h10m
+| None
+| 325M
+|-
+| [[Sven's Nightmare]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 14,900,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Sweet Death]]
+| [[Sweet Death]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 1,500,000
+| 12,000,000
+| data-sort-value="3.40" | 3h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 4,121
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Sweet Wraith]]
+| [[Sand Wraith]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,000,000
+| None
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,029
+| data-sort-value="3" | Long
+| ?
+| ?
+| 500
+| data-sort-value="13.35" | 13h35m
+| 400M
+| None
+|-
+| [[Sword Stealer]]
+| [[Sword Stealer]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 3,750,000
+| 3,750,000
+| data-sort-value="25" | 1d01h
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 4,948
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="1.48" | 1h48m
+| None
+| 450M
+|-
+| [[Terrible Terror]]
+| [[Terrible Terror]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Common Dragons | Common]]
+| 1,420,000
+| 1,420,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,759
+| data-sort-value="3" | Long
+| 28.4K
+| 288K
+| None
+| None
+| None
+| None
+|-
+| [[Thornado]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,320,000
+| None
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 3,182
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Thornridge]]
+| [[Thornridge]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 6,000,000
+| 6,000,000
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 3,523
+| data-sort-value="3" | Long
+| ?
+| ?
+| 137
+| data-sort-value="1.59" | 1h59m
+| None
+| 425M
+|-
+| [[Thornshade]]
+| [[Thornridge]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Premium Dragons | Premium]]
+| 7,420,000
+| 7,420,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 6,865
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Thorstopian]]
+| [[Razorwhip]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 2,880,000
+| 2,880,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 1,976
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 12
+| data-sort-value="0.00.43" | 43s
+| 325M
+| None
+|-
+| [[Threadtail]]
+| [[Threadtail]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 12,000,000
+| None
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,578
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="1.05" | 1h05m
+| 450M
+| None
+|-
+| [[Thump]]
+| [[Raincutter]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 9,000,000
+| 6,000,000
+| data-sort-value="2.05" | 2h05m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 2,780
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Thunderclaw]]
+| [[Thunderclaw]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| None
+| 11,500,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,622
+| data-sort-value="1" | Short
+| ?
+| ?
+| 187
+| data-sort-value="2.02" | 2h02m
+| None
+| 450M
+|-
+| [[Thunderdrum]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 2,320,000
+| None
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,526
+| data-sort-value="1" | Short
+| 13.8K
+| 690K
+| 125
+| data-sort-value="1.12" | 1h12m
+| 490M
+| None
+|-
+| [[Thunderpede]]
+| [[Thunderpede]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| 975,000
+| 1,200,000
+| data-sort-value="26" | 1d02h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,995
+| data-sort-value="1" | Short
+| 16.4K
+| 816K
+| 131
+| data-sort-value="1.54" | 1h54m
+| None
+| 450M
+|-
+| [[Tide Glider]]
+| [[Tide Glider]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 2,100,000
+| None
+| data-sort-value="42" | 1d18h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,730
+| data-sort-value="3" | Long
+| ?
+| ?
+| 143
+| data-sort-value="1.54" | 1h54m
+| 450M
+| None
+|-
+| [[Timberjack]]
+| [[Timberjack]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Common Dragons | Common]]
+| 750,000
+| 1,950,000
+| data-sort-value="12.50" | 12h50m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,394
+| data-sort-value="1" | Short
+| 13.1K
+| 654K
+| None
+| None
+| None
+| None
+|-
+| [[Toothless]]
+| [[Night Fury]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| None
+| data-sort-value="0" | None
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 1,372
+| data-sort-value="3" | Long
+| 10.6K
+| 99.1K
+| None
+| None
+| None
+| None
+|-
+| [[Toothless' Rival]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 2,470,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,338
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Torch]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 2,320,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,057
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Torch's Brother]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 5,700,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,336
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Torch's Mother]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 4,120,000
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,147
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Torch's Sister]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 10,500,000
+| data-sort-value="2.05" | 2h05m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,336
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Tormentor]]
+| [[Catastrophic Quaken]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 3,450,000
+| 3,450,000
+| data-sort-value="21.20" | 21h20m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 7,499
+| data-sort-value="1" | Short
+| ?
+| ?
+| 243
+| data-sort-value="2.06" | 2h06m
+| None
+| 490M
+|-
+| [[Trailtwister]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| None
+| 3,000,000
+| data-sort-value="53" | 2d05h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,091
+| data-sort-value="1" | Short
+| ?
+| ?
+| 500
+| data-sort-value="13.35" | 13h35m
+| None
+| 400M
+|-
+| [[Triple Stryke]]
+| [[Triple Stryke]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,668
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 156
+| data-sort-value="1.21" | 1h21m
+| None
+| 500M
+|-
+| [[Tuffnut's Death Ride]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Premium Dragons | Premium]]
+| None
+| 8,700,000
+| data-sort-value="16.00" | 16h
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 6,659
+| data-sort-value="1" | Short
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Tuffwing]]
+| [[Changewing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 7,500,000
+| None
+| data-sort-value="53.00" | 2d05h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Typhoomerang]]
+| [[Typhoomerang]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Scarce Dragons | Scarce]]
+| None
+| 2,320,000
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 2,427
+| data-sort-value="2" | Med.
+| 50.8K
+| 204K
+| 125
+| data-sort-value="1.12" | 1h12m
+| None
+| 490M
+|-
+| [[Valka's Mercy]]
+| [[Monstrous Nightmare]]
+| data-sort-value="Stoker" | [[File:Stoker Icon.png | 20px | link=:Category:Stoker Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 8,700,000
+| 1,120,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,218
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| 450M
+| None
+|-
+| [[Valka's Seashocker]]
+| [[Seashocker]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 12,000,000
+| 1,500,000
+| data-sort-value="4.15" | 4h15m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 3,597
+| data-sort-value="2" | Med.
+| ?
+| ?
+| None
+| None
+| None
+| None
+|-
+| [[Whirlwing]]
+| [[Thunderdrum]]
+| data-sort-value="Tidal" | [[File:Tidal Icon.png | 20px | link=:Category:Tidal Class]]
+| [[:Category:Unique Dragons | Unique]]
+| None
+| 3,000,000
+| data-sort-value="12.15" | 12h15m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 2,526
+| data-sort-value="1" | Short
+| ?
+| ?
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| ???M
+|-
+| [[Whip & Lash]]
+| [[Hideous Zippleback]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="6.20" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 8,640
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 162
+| data-sort-value="2.34" | 1h24m
+| 500M
+| None
+|-
+| [[Whispering Death]]
+| [[Whispering Death]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Common Dragons | Common]]
+| None
+| 1,720,000
+| data-sort-value="10.40" | 10h40m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 1,963
+| data-sort-value="1" | Short
+| 10.8K
+| 538K
+| 125
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Windgnasher]]
+| [[Windgnasher]]
+| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 9,000,000
+| 9,000,000
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 8,443
+| data-sort-value="3" | Long
+| ?
+| ?
+| 156
+| data-sort-value="1.21" | 1h21m
+| 500M
+| None
+|-
+| [[Windshear]]
+| [[Razorwhip]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 2,620,000
+| 2,620,000
+| data-sort-value="18.40" | 18h40m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,559
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 150
+| data-sort-value="1.27" | 1h27m
+| 450M
+| None
+|-
+| [[Windstriker]]
+| [[Windstriker]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 11,500,000
+| None
+| data-sort-value="5.50" | 5h50m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 187
+| data-sort-value="2.02" | 2h02m
+| 450M
+| None
+|-
+| [[Winged Warden]]
+| [[Windstriker]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 5,880,000
+| None
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 7,199
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 237
+| data-sort-value="2.17" | 2h17m
+| 450M
+| None
+|-
+| [[Wise Wind]]
+| [[Woolly Howl]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Premium Dragons | Premium]]
+| None
+| 12,000,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,498
+| data-sort-value="3" | Long
+| ?
+| ?
+| 143
+| data-sort-value="1.54" | 1h54m
+| None
+| 425M
+|-
+| [[Woolly Howl]]
+| [[Woolly Howl]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 2,100,000
+| 2,100,000
+| data-sort-value="37" | 1d13h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 4,637
+| data-sort-value="3" | Long
+| ?
+| ?
+| 143
+| data-sort-value="1.54" | 1h54m
+| 425M
+| None
+|-
+| [[Coldsnap2]]
+| [[Armorwing]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| 10,500,000
+| data-sort-value="6.25" | 6h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,398
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 156
+| data-sort-value="1.05" | 1h05m
+| None
+| ???M
+|-
+| [[Hackagift2]]
+| [[Hackatoo]]
+| data-sort-value="Sharp" | [[File:Sharp Icon.png | 20px | link=:Category:Sharp Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 3,000,000
+| 6,000,000
+| data-sort-value="5.20" | 5h20m
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,658
+| data-sort-value="3" | Long
+| ?
+| ?
+| 125
+| data-sort-value="0.32.42" | 32m42s
+| None
+| ???M
+|-
+| [[Book Wyrm]]
+| [[Gronckle]]
+| data-sort-value="Boulder" | [[File:Boulder Icon.png | 20px | link=:Category:Boulder Class]]
+| [[:Category:Unique Dragons | Unique]]
+| 6,000,000
+| 8,250,000
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Defender" | [[File:Health Icon.png | 20px | link=:Category:Defender Dragons]]
+| 5,622
+| data-sort-value="1" | Short
+| ?
+| ?
+| 225
+| data-sort-value="2.10" | 2h10m
+| None
+| 450M
+|-
+| [[Skystreaker2]]
+| [[Flightmare]]
+| data-sort-value="Mystery" | [[File:Mystery Icon.png | 20px | link=:Category:Mystery Class]]
+| [[:Category:Exclusive Dragons | Exclusive]]
+| 10,500,000
+| None
+| data-sort-value="36.0" | 1d12h
+| data-sort-value="Sharpshooter" | [[File:Range Icon.png | 20px | link=:Category:Sharpshooter Dragons]]
+| 5,844
+| data-sort-value="3" | Long
+| ?
+| ?
+| 131
+| data-sort-value="1.54" | 1h54m
+| 450M
+| None
+|-
+| [[Threadtail2]]
+| [[Threadtail]]
+| data-sort-value="Strike" | [[File:Strike Icon.png | 20px | link=:Category:Strike Class]]
+| [[:Category:Rare Dragons | Rare]]
+| 12,000,000
+| None
+| data-sort-value="7.25" | 7h25m
+| data-sort-value="Attacker" | [[File:Damage Icon.png | 20px | link=:Category:Attacker Dragons]]
+| 5,578
+| data-sort-value="2" | Med.
+| ?
+| ?
+| 125
+| data-sort-value="1.05" | 1h05m
+| 450M
+| None
+|}

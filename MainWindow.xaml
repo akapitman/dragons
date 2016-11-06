@@ -1,0 +1,140 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" x:Class="DragonsList.MainWindow"
+        Title="MainWindow" Height="650" Width="925" >
+    <Grid>
+
+        <dx:DXTabControl>
+            <dx:DXTabItem Header="Fish and Wood">
+                <Grid Background="Transparent">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/> 
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Label Content="Fish" Grid.Column="0" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+                    <Label Content="Wood" Grid.Column="1" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+                     
+                    <dxg:GridControl Grid.Row="1"  x:Name="gridFish" Grid.Column="0" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True">
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Descending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                    <dxg:GridControl  Grid.Row="1" x:Name="gridWood"  Grid.Column="1"  AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"  >
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Descending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+
+
+                </Grid>
+                
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Iron">
+                <Grid Background="Transparent">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Label Content="Fish" Grid.Column="0" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+                    <Label Content="Wood" Grid.Column="1" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+
+                    <dxg:GridControl Grid.Row="1"  x:Name="gridIronFish" Grid.Column="0" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True">
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Ascending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                    <dxg:GridControl  Grid.Row="1" x:Name="gridIronWood"  Grid.Column="1"  AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"  >
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Ascending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+
+
+                </Grid>
+
+            </dx:DXTabItem>
+            <dx:DXTabItem Header="Battle">
+                <Grid Background="Transparent">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Label Content="Range" Grid.Column="0" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+                    <Label Content="Attack" Grid.Column="1" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+                    <Label Content="Defend" Grid.Column="2" FontSize="10" Height="24" HorizontalAlignment="Center"></Label>
+
+                    <dxg:GridControl Grid.Row="1"  x:Name="battleRange" Grid.Column="0" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True">
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Descending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                    <dxg:GridControl  Grid.Row="1" x:Name="battleAtk"  Grid.Column="1"  AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True"  >
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Descending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                    <dxg:GridControl  Grid.Row="1"  x:Name="battleDef"   Grid.Column="2" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True">
+                        <dxg:GridControl.Columns>
+                            <dxg:GridColumn FieldName="Name"/>
+                            <dxg:GridColumn SortOrder="Descending" FieldName="Value"/>
+                            <dxg:GridColumn FieldName="Type"/>
+                        </dxg:GridControl.Columns>
+                        <dxg:GridControl.View>
+                            <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+                        </dxg:GridControl.View>
+                    </dxg:GridControl>
+                    
+                </Grid>
+
+            </dx:DXTabItem>
+
+        </dx:DXTabControl>
+
+    </Grid>
+</Window>
