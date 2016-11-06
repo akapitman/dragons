@@ -1,7 +1,7 @@
 |-
 | [[Ambered Nadder]]
 | [[Deadly Nadder]]
-| data-sort-value="Tracker" | [[File:Tracker Icon Black.png | 20px | link=:Category:Tracker Class]]
+| data-sort-value="Tracker" | [[File:Trker Icon Black.png | 22px | link=:Category:Tracker Class]]
 | [[:Category:Exclusive Dragons | Exclusive]]
 | 4,500,000
 | 4,500,000
